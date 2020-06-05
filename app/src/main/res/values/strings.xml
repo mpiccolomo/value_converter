@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">value converter</string>
+    <string name="txtEuro">Eur</string>
+    <string name="ins_currency">ins currency</string>
+    <string name="txtEur">Eur</string>
+    <string name="txtwEuro">Euro</string>
+    <string name="txtDollar">Dollar $</string>
+    <string name="Bt">Convert</string>
+    <string name="imgC">img_change</string>
+    <string name="txt1">Euro</string>
+    <string name="euro">Euro</string>
+</resources>
